@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey👋, I am Kunal Patil
+<!-- - 🔭 I’m currently working on backend -->
+- 💬 Ask me about Java, C/C++,Python, HTML, CSS, JavaScript
+- 📫 How to reach me: kunalpatil2408.kp@gmail.com
 
 <!--
 **KunalPatil-24/KunalPatil-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

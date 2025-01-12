@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on backend -->
 - 💬 Ask me about Java, C/C++,Python, HTML, CSS, JavaScript
-- 📫 How to reach me: kunalpatil2408.kp@gmail.com
+- 📫 How to reach me: kunalpatil24.official@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
